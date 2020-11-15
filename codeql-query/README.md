@@ -1,0 +1,2 @@
+# CodeQL Query
+
